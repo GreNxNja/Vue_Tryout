@@ -1,4 +1,4 @@
-# Vue Expense Tracker
+# Expenker
 
 Welcome to the Vue Expense Tracker! This application is built from scratch using Vue.js 3 and the composition API with the latest syntax from version 3.2. It helps you keep track of your expenses efficiently and effectively.
 
